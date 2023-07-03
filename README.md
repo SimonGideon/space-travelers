@@ -1,9 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/78832703/203859927-696905b8-edee-4cc6-8642-0759f99b9ffd.png"
-alt="logo" width="140"  height="auto" />
 <br/>
 
   <h3><b>Space Travelers Hub</b></h3>
